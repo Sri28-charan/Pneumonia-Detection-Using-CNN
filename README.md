@@ -57,5 +57,9 @@ Chest X-Ray Images (Pneumonia) dataset:
 👉 [Kaggle Dataset Link](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
 
+### 📌 Run in Google Colab  
+Click below to open the notebook in Colab:  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sri28-charan/Pneumonia-Detection-Using-CNN/blob/main/Pneumonia_Detection.ipynb)
 
    
