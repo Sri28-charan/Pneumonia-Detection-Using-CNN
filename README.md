@@ -60,6 +60,6 @@ Chest X-Ray Images (Pneumonia) dataset:
 ### 📌 Run in Google Colab  
 Click below to open the notebook in Colab:  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sri28-charan/Pneumonia-Detection-Using-CNN/blob/main/Pneumonia_Detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sri28-charan/Pneumonia-detection-Mobile-Net/blob/main/Pneumonia_Detection.ipynb)
 
    
