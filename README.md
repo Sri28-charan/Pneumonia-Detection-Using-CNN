@@ -40,13 +40,22 @@ This project applies **Transfer Learning with MobileNetV2** to classify chest X-
 
 ## 📊 Results
 
-### Training vs Validation Accuracy
-![Accuracy](Images/Model Accuracy.png)
+  - Accuracy and Loss before Finetuning
+     . Test Accuracy: 86.06%
+     . Test Loss: 0.3284
 
-### Training vs Validation Loss
-![Loss](Images/Model loss.png)
+  - Results After Finetuning
+     . Accuracy: 85.84%  
+     . AUC: 94.38%  
+     . Loss: 35.03%  
+     . Precision: 83.86%  
+     . Recall: 96.12%
+    
+## 📂 Dataset  
 
-### Confusion Matrix
-![Confusion Matrix](Images/Confusion_matrix.png)
+Chest X-Ray Images (Pneumonia) dataset:  
+👉 [Kaggle Dataset Link](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+
+
 
    
