@@ -38,6 +38,15 @@ This project applies **Transfer Learning with MobileNetV2** to classify chest X-
 
 ---
 
+## 📊 Results
 
+### Training vs Validation Accuracy
+![Accuracy](Images/Model Accuracy.png)
+
+### Training vs Validation Loss
+![Loss](Images/Model loss.png)
+
+### Confusion Matrix
+![Confusion Matrix](Images/Confusion_matrix.png)
 
    
