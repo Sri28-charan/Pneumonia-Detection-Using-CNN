@@ -50,6 +50,8 @@ This project applies **Transfer Learning with MobileNetV2** to classify chest X-
      . Loss: 35.03%  
      . Precision: 83.86%  
      . Recall: 96.12%
+## Output 
+ - The Model Detect the penumonia with 99.94% Confidence
     
 ## 📂 Dataset  
 
