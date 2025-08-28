@@ -64,7 +64,7 @@ Click below to open the notebook in Colab:
 
 
 ### Open it directly in **Google Colab**:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sri28-charan/Stock-Price-Prediction/blob/main/Stock_Price_Prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sri28-charan/Pneumonia-Detection-Using-CNN/blob/main/Pneumonia_detection_Mobile_Net.ipynb)
 
 
    
