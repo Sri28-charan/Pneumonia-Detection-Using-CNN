@@ -63,8 +63,8 @@ Chest X-Ray Images (Pneumonia) dataset:
 Click below to open the notebook in Colab:  
 
 
-###Open it directly in **Google Colab**:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Snl28-charan/Stock-Price-Prediction/blob/main/Stock_Price_Prediction.ipynb)
+### Open it directly in **Google Colab**:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sri28-charan/Stock-Price-Prediction/blob/main/Stock_Price_Prediction.ipynb)
 
 
    
